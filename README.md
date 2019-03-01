@@ -2,7 +2,7 @@
 collectionview  water falls flow layout
 
 
- [!]
+ ![](https://github.com/Liuchunqi3240/WaterFallsFlowLayout/blob/master/WaterFallsFlowLayout.gif)
 
 
 # USE IT 
